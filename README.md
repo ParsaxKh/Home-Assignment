@@ -6,7 +6,7 @@ This is a repository of a home assignment for Programming for Psychologists 2025
 
 **Date:** *29/11/2025*  
   
-
+Neurosynth link: *https://neurosynth.org/analyses/terms/episodic%20memory/*
 ---
 
 ## Project Description
@@ -18,7 +18,7 @@ This project analyzes brain activity related to episodic memory using the anatom
 
 | Section | Description |
 |---------|-------------|
-| **data** | An automated meta-analysis of 332 episodic memory studies conducted from Neurosynth: *https://neurosynth.org/analyses/terms/episodic%20memory/* |
+| **Data** | The files that are used for the data -> episodic memory_uniformity-test_z_FDR_0.01.nii.gz and anatomical.nii.gz  |
 | **Codes-for-HA.ipynb** | The main notebook that loads, visualizes, and analyzes the MRI data. |
 | **README.md** | This file, describing the project and structure. ||
 
